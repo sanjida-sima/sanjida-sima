@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./img/banner.png" alt="Sanjida Akter Sima Banner" width="100%">
+</p>
+
 <h1 align="center">Hi 👋, I'm Sanjida Akter Sima</h1>
 <h3 align="center">A passionate full-stack web development learner from BD</h3>
 
