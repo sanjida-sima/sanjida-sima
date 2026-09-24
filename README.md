@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./img/banner.png" alt="Sanjida Akter Sima Banner" width="100%">
+  <img src="./banner.png" alt="Sanjida Akter Sima Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Sanjida Akter Sima</h1>
